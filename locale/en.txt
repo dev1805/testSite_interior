@@ -1,0 +1,13 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_82C8384B_886E_F611_41BD_E28318949811.label = full-seamless-panorama-degrees-angle-view-interior-fabric-salon-prestige-modern-car-equirectangular-equidistant-spherical-140485100
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
